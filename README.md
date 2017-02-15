@@ -67,12 +67,12 @@ More information [Bot-net Development](https://t.me/joinchat/AAAAAD6v2N-Xoupx5d
 # Developer!
 
 
-- [Sajad Aliraqe On github](https://github.com/sajad1200) 
+- [hedar aboazra On github](https://github.com/Mostank_GT) 
 
-- [Sajad Aliraqe On Telegram](https://telegram.me/Al_Srai)
+- [hedar aboazra On Telegram](https://telegram.me/Mostank_GT)
 
 
 ### Our Telegram channel:
 
-[Bot-Net Channel](https://telegram.me/Al_Srai1)
+[Bot-Net Channel](https://telegram.me/Ol56lO_dev)
 
