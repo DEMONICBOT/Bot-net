@@ -53,7 +53,7 @@ Open `./Bot-net./data./Config.lua` And add your id in there
 ```
     sudo_users = {
     237203540,
-    0,
+    0
     YourID
   }
 ```
