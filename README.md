@@ -60,7 +60,6 @@ Open `./Bot-net./data./Config.lua` And add your id in there
 
 # Support and development
 
-More information [Bot-net Development](https://t.me/joinchat/AAAAAD6v2N-Xoupx5d3aOQ)
 
 * * *
 
