@@ -36,13 +36,13 @@ fi
 
 if [ "$1" = "-p" ]; then
     echo -e "\033[38;5;208m"
-    echo -e "     >> Bot-net Source By Sajad Aliraqe - @Al_Srai                    "
+    echo -e "     >> Bot-net Source By Sajad Aliraqe - @Mostank_GT                    "
     echo -e "                                              \033[0;00m"
     echo -e "\e[36m"
     ./tg/tgcli -s ./bot/bot.lua -p $2
 fi
    echo -e "\033[38;5;208m"
-   echo -e "     >> Bot-net Source By Sajad Aliraqe - @Al_Srai                      "
+   echo -e "     >> Bot-net Source By Sajad Aliraqe - @Mostank_GT                      "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
    ./tg/tgcli -s ./bot/bot.lua -l 1 -E $@
