@@ -1,4 +1,4 @@
-  - [Bot-net](https://telegram.me/Al_Srai1) Source By Sajad Aliraqe
+  - [Bot-net](https://telegram.me/Mostank_GT) Source By #عزرائيل
 ============
 
   - An advanced and powerful administration bot based on NEW TG-CLI
@@ -25,7 +25,7 @@
 
 `````
 cd $HOME
-git clone https://github.com/sajad1200/Bot-net.git
+git clone https://github.com/DEMONICBOT/Bot-net
 cd Bot-net
 chmod +x Botnet.sh
 ./Botnet.sh install
@@ -40,7 +40,7 @@ Botnet.sh
 To install everything in one command, use:
 
 ```sh
-cd $HOME && git clone https://github.com/sajad1200/Bot-net.git && cd Bot-net && chmod +x Botnet.sh && ./Botnet.sh install && ./Botnet.sh
+cd $HOME && git clone https://github.com/DEMONICBOT/Bot-net && cd Bot-net && chmod +x Botnet.sh && ./Botnet.sh install && ./Botnet.sh
 ```
 
 * * *
@@ -52,7 +52,7 @@ After you run the bot for first time, send it `/id`. Get your ID and `stop the b
 Open `./Bot-net./data./Config.lua` And add your id in there
 ```
     sudo_users = {
-    321681775,
+    237203540,
     0,
     YourID
   }
